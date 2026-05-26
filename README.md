@@ -100,4 +100,4 @@ Outputs are generated in:
 - **Chaitanya Karthik M**
 - **Saireesh Murali G**
 - **Sathvik G**
-*VIT Chennai - SCOPE (BCSE498J Project-II | February 2026)*
+*VIT Vellore - SCOPE (BCSE498J Project-II | February 2026)*
