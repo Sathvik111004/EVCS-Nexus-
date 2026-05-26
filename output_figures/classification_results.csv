@@ -1,0 +1,5 @@
+Model,Accuracy,Accuracy_Std,Precision,Recall,F1_Score
+Random Forest,0.5,0.5,0.5,0.5,0.5
+SVM,0.0,0.0,0.0,0.0,0.0
+Gradient Boosting,0.6666666666666666,0.4714045207910317,0.6666666666666666,0.6666666666666666,0.6666666666666666
+Neural Network,0.5,0.5,0.5,0.5,0.5

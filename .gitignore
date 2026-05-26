@@ -1,0 +1,53 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Python virtual environment and caching
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local files/caches
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+tempCodeRunnerFile.py
+
+# Build/Dev tools
+.next/
+out/
+build/
+dist/
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Backend virtualenv and pycache
+backend/venv/
+backend/__pycache__/
+backend/models/__pycache__/
+
+# Output metrics/results we might not want to re-commit if they change frequently, or keep them if they are part of the baseline.
+# Let's keep data/ and outputs if they are baseline models and data.

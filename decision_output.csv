@@ -1,0 +1,7 @@
+Station,Locality,Indian Tier,Vehicle Mix,Predicted Vehicle,Recommended Charger
+EVCS1,Low-Usage (Semi-Rural),Semi-Rural,2W/3W dominant,LMV/2W/3W,AC Slow
+EVCS2,Mid-Density (Town),Tier-2 City,Mixed (LMV+2W+3W),Mixed,AC + DC
+EVCS3,High-Density (Urban),Tier-1 City,LMV-dominant,HMV,DC Fast
+EVCS4,Low-Usage (Semi-Rural),Semi-Rural,2W/3W dominant,LMV/2W/3W,AC Slow
+EVCS5,Low-Usage (Semi-Rural),Semi-Rural,2W/3W dominant,LMV/2W/3W,AC Slow
+EVCS6,High-Density (Urban),Tier-1 City,LMV-dominant,HMV,DC Fast

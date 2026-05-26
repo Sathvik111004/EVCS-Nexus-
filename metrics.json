@@ -1,0 +1,37 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "confusion_matrix": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "classes": [
+    "HMV",
+    "LMV/2W/3W",
+    "Mixed"
+  ],
+  "feature_importance": {
+    "Peak Load (kW)": 0.1812121212121212,
+    "Median Load (kW)": 0.14154545454545453,
+    "Avg Daily Load (kWh)": 0.13893939393939397,
+    "Load Variance (kW\u00b2)": 0.13863636363636364,
+    "Weekly Consistency (CV %)": 0.1362121212121212,
+    "Peak-to-Avg Ratio": 0.1259090909090909,
+    "Idle Hour Ratio (%)": 0.09015151515151514,
+    "Night-to-Day Ratio": 0.04739393939393939
+  }
+}

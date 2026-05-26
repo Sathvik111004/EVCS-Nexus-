@@ -1,0 +1,7 @@
+Station,Locality,Indian Tier,ML Predicted Vehicle,Recommended Charger
+EVCS1,Low-Usage (Semi-Rural),Semi-Rural,Mixed,AC Slow (7.4kW)
+EVCS2,Mid-Density (Town),Tier-2 City,Mixed,AC (22kW) + DC (50kW)
+EVCS3,High-Density (Urban),Tier-1 City,HMV,DC Fast (150kW+)
+EVCS4,Low-Usage (Semi-Rural),Semi-Rural,LMV/2W/3W,AC Slow (7.4kW)
+EVCS5,Low-Usage (Semi-Rural),Semi-Rural,LMV/2W/3W,AC Slow (7.4kW)
+EVCS6,High-Density (Urban),Tier-1 City,HMV,DC Fast (150kW+)
